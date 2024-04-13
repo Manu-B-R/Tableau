@@ -48,3 +48,4 @@
 <a><b>Predictive analytics for inventory management</b>: Anticipates future demand and helps optimize inventory levels.</a></br>
 
 <h3>These components provide a comprehensive overview of car sales performance, enabling dealerships and automotive companies to make data-driven decisions, identify opportunities for improvement, and optimize their sales strategies.</h3>
+![tableau SS](https://github.com/Manu-B-R/Tableau/assets/162290038/94759a4b-6d64-47be-97c5-b9978cec32c0)
